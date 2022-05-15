@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 21B Sets and Maps
- * Weltron Bitange
  * This program creates a Treemap from an input file and checks for values from user input.
  * */
 import java.util.*;
