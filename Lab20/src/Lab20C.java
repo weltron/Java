@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 20C Stacks, List & Queues
- * Weltron Bitange
  * This program creates and processes a queue of orders and processes orders and returns the list of items
  * available as well as a list of unprocessed orders
  * */
