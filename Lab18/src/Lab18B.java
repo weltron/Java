@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 18B Recursion
- * Weltron Bitange
  * This program accepts an array of integers and returns true if a element in the
  * array is twice the value of the previous element 
  * */
