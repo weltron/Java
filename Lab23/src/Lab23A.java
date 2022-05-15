@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 23A Sorting
- * Weltron Bitange
  * This program creates 3 arrays with random numbers and sorts them using different sorting routines
  * */
 public class Lab23A {
