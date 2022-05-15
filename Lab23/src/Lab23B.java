@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 23B Sorting
- * Weltron Bitange
  * This program uses Insertion Sort to sort through an array of objects
  * */
 import java.util.*;
