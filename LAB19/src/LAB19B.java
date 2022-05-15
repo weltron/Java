@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 19B Generics
- * Weltron Bitange
  * This program that creates and processes an ArrayList of Strings and Doubles.
  * It reads from a file and stores it in an array list and then outputs the details of books.
  * */
