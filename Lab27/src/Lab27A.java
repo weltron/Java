@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 27A Hashing
- * Weltron Bitange
  * This program creates a hash table of customer names and customer ID numbers using linear probing
  * */
 
