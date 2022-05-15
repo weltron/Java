@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 21B Sets and Maps
- * Weltron Bitange
  * This program creates a Linkedhashmap from an input file and prints out a map
  * */
 import java.util.*;
