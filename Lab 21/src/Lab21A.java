@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 21A Sets and Maps
- * Weltron Bitange
  * This program creates and processes TreeSets and compares the values of each.
  * */
 import java.util.*;
