@@ -1,0 +1,10 @@
+Volkswagen Germany 10
+Toyota Japan 9
+Berkshire US 8
+Royal-Dutch Netherlands 7
+CVS US 6
+Apple US 5
+PetroChina China 4
+Amazon US 3
+China-Petroleum China 2
+Walmart US 1

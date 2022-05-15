@@ -1,0 +1,10 @@
+Grey,Jason   3.45
+Keller,Liem   2.95
+Powers,Mary   3.25
+Zenni,Oscar   2.52
+Jenkins,Fred   3.05
+Sadler,Marvin   2.89
+Yentis,Harry   3.77
+Riley,Warren   3.10
+Flowers,Gary   2.76
+Hodgins,Drew   3.88

@@ -1,0 +1,7 @@
+1245  Bookend   
+1300  Can opener
+1221  Microwave
+1294  Clock
+1311  Refrigerator
+1388  Ice maker
+1120  Radio
