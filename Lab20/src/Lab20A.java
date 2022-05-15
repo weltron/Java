@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 20A Stacks, List & Queues
- * Weltron Bitange
  * This program creates and processes an ArrayList of random numbers and processes the list.
  * */
 import java.util.*;
