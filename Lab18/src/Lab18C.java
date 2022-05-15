@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 18C Recursion
- * Weltron Bitange
  * This program of a method that accepts two strings with the first one longer than the 
  * second. It returns the first string with all instances of the second one removed
  * */
