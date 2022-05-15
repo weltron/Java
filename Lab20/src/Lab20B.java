@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 20B Stacks, List & Queues
- * Weltron Bitange
  * This program creates and processes a Stack of Books and determining how many pages we read in a challenge
  * */
 import java.util.*;
