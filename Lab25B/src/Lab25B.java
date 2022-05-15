@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 25B Binary Search Trees
- * Weltron Bitange
  * This program creates a binary search tree with string and uses
  * methods to fill and print
  * */
