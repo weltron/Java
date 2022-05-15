@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 28B Implementing Data Structures
- * Weltron Bitange
  * This program creates an array of companies and adds the objects to a atack
  * */
 import java.io.*;
