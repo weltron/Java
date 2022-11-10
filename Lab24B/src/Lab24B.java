@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 24B Implementing Linked Lists, Stacks & Queues
- * Weltron Bitange
  * This program creates a queue of car makes models and years and add and remove objects from the queue
  * */
 

@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 18A Recursion
- * Weltron Bitange
  * This program accepts an integer and returns the number of odd digits in it
  * */
 import java.util.*;

@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 27A Hashing
- * Weltron Bitange
  * This program creates a hash table of gadget names and gadget ID numbers using quadratic probing
  * */
 

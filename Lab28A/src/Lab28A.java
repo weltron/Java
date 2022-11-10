@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 28A Implementing Data Structures
- * Weltron Bitange
  * This program creates an array of cities and adds the objects to a queue
  * */
 import java.io.*;

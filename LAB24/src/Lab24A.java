@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 24A Implementing Linked Lists, Stacks & Queues
- * Weltron Bitange
  * This program creates a linked list of names and searches for a name from user input.
  * */
 import java.util.*;

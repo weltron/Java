@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 23C Sorting
- * Weltron Bitange
  * This program uses Bubble Sort to sort through an array of objects
  * */
 import java.util.*;

@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 25A Binary Search Trees
- * Weltron Bitange
  * This program creates a tree node class and uses it to build a binary search tree
  * */
 

@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 24C Implementing Linked Lists, Stacks & Queues
- * Weltron Bitange
  * This program creates a stack of drinks and add and remove objects from the stack
  * */
 

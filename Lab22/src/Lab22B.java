@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 22B Algorithm Analysis
- * Weltron Bitange
  * This program accepts a string and searches for and displays
  * the longest set of increasing letters
  * */

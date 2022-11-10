@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 19A Generics
- * Weltron Bitange
  * This program that creates and processes an ArrayList of Strings. It returns words whose length is shorter than
  * user input.
  * */

@@ -1,6 +1,4 @@
 /*
- * Lab Assignment 22A Algorithm Analysis
- * Weltron Bitange
  * This program creates an Arraylist and a TreeSet and compares the time it takes to fill,
  * search and remove a number from each
  * */
